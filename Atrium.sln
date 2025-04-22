@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atrium", "Atrium\Atrium.csproj", "{3222EB74-EF54-416B-B5CB-570615A0CDA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atrium.Test", "Atrium.Test\Atrium.Test.csproj", "{FC342278-AD83-4851-9347-A85DBDE60DA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3222EB74-EF54-416B-B5CB-570615A0CDA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3222EB74-EF54-416B-B5CB-570615A0CDA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3222EB74-EF54-416B-B5CB-570615A0CDA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3222EB74-EF54-416B-B5CB-570615A0CDA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC342278-AD83-4851-9347-A85DBDE60DA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC342278-AD83-4851-9347-A85DBDE60DA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC342278-AD83-4851-9347-A85DBDE60DA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC342278-AD83-4851-9347-A85DBDE60DA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AAB23FE-73D2-456A-87B3-3DD345EF158D}
+	EndGlobalSection
+EndGlobal
